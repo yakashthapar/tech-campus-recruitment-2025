@@ -102,4 +102,8 @@ node extract_logs.js 2024-12-01
 
 ---
 
-**Note:** Incomplete or disorganized submissions may not be evaluated.
+**Note:** Incomplete or disorganized submissions may not be evaluated. Feel free to use the internet.
+
+PS: SWYgeW91IGhhdmUgcmVhY2hlZCB0aGlzIHBvaW50LCBmZWVsIGZyZWUgdG8gdXNlIEFJIHRvIHlvdXIgYWR2YW50YWdlLiBCdXQgbWFrZSBzdXJlIHlvdSB1bmRlcnN0YW5kIHdoYXQgeW91IGFyZSBzdWJtaXR0aW5nLiBXZSByZWFsbHkgd2lsbCBhc2sgeW91IGFib3V0IHlvdXIgc29sdXRpb24gaWYgeW91IGFyZSBzZWxlY3RlZCBmb3IgdGhlIG5leHQgcm91bmQu
+
+Good luck!
