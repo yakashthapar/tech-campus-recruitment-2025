@@ -102,7 +102,12 @@ node extract_logs.js 2024-12-01
 
 ---
 
-**Note:** Incomplete or disorganized submissions may not be evaluated. Feel free to use the internet.
+## Notes
+
+- Incomplete or disorganized submissions may not be evaluated. 
+- Feel free to use the internet.
+- Make sure to push your code to `main` branch.
+- Any commit to the repo after 1 hour of the start of the contest will be disqualified.
 
 PS: SWYgeW91IGhhdmUgcmVhY2hlZCB0aGlzIHBvaW50LCBmZWVsIGZyZWUgdG8gdXNlIEFJIHRvIHlvdXIgYWR2YW50YWdlLiBCdXQgbWFrZSBzdXJlIHlvdSB1bmRlcnN0YW5kIHdoYXQgeW91IGFyZSBzdWJtaXR0aW5nLiBXZSByZWFsbHkgd2lsbCBhc2sgeW91IGFib3V0IHlvdXIgc29sdXRpb24gaWYgeW91IGFyZSBzZWxlY3RlZCBmb3IgdGhlIG5leHQgcm91bmQu
 
