@@ -12,6 +12,11 @@ You are tasked with developing a solution to efficiently extract logs from a lar
 2024-12-02 09:15:30 WARN Disk space running low  
 ```
 
+To download the log file, run the following command in your terminal:
+```curl
+curl -L -o test_logs.log "https://limewire.com/d/90794bb3-6831-4e02-8a59-ffc7f3b8b2a3#X1xnzrH5s4H_DKEkT_dfBuUT1mFKZuj4cFWNoMJGX98"
+```
+
 ---
 
 ## Objective  
