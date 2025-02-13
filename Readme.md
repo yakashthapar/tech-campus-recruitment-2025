@@ -14,7 +14,7 @@ You are tasked with developing a solution to efficiently extract logs from a lar
 
 To download the log file, run the following command in your terminal:
 ```curl
-curl -L -o test_logs.log "https://limewire.com/d/90794bb3-6831-4e02-8a59-ffc7f3b8b2a3#X1xnzrH5s4H_DKEkT_dfBuUT1mFKZuj4cFWNoMJGX98"
+curl -L -o test_logs.log "https://limewire.com/d/608b3bd4-c3bf-45c6-abc1-91302035b7e4#ILE27cGoutmcDEpHdV9VqQRvJkC16pq7v1Nx2rzoIl4"
 ```
 
 ---
