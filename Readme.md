@@ -14,7 +14,7 @@ You are tasked with developing a solution to efficiently extract logs from a lar
 
 To download the log file(zip), from the following link:
 ```link
-https://limewire.com/d/608b3bd4-c3bf-45c6-abc1-91302035b7e4#ILE27cGoutmcDEpHdV9VqQRvJkC16pq7v1Nx2rzoIl4
+https://limewire.com/d/faac7058-600b-4854-a761-865d00cb60c9#d_R--dujJoTRqRsjoW_HiOmZPIFAZqxQNH8YM0bPRgQ
 
 OR
 
